@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codindojog1\\utils\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|solutionrelative:utils\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codindojog1\\codindojog1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|solutionrelative:codindojog1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codindojog1\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|solutionrelative:controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codindojog1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E992BBE5-1135-4C25-92DB-C600EED9154E}|CodinDojoG1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeechService.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\Utils\\SpeechService.cs",
+              "RelativeDocumentMoniker": "Utils\\SpeechService.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\Utils\\SpeechService.cs",
+              "RelativeToolTip": "Utils\\SpeechService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:56:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodinDojoG1",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\CodinDojoG1.csproj",
+              "RelativeDocumentMoniker": "CodinDojoG1.csproj",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\CodinDojoG1.csproj",
+              "RelativeToolTip": "CodinDojoG1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T18:55:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:18:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeechController.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\Controllers\\SpeechController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpeechController.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodinDojoG1\\Controllers\\SpeechController.cs",
+              "RelativeToolTip": "Controllers\\SpeechController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:17:43.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

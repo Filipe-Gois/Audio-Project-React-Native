@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodinDojoG1.props" />
+</Project>
