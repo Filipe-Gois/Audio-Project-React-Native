@@ -1,4 +1,5 @@
 ﻿using Azure.Storage.Blobs;
+using CodingDojoSpeechService.Domains;
 
 namespace WebAPI.Utils.BlobStorage
 {
@@ -6,16 +7,39 @@ namespace WebAPI.Utils.BlobStorage
     {
 
         //passar a extensao do arquivo para .wav
-        public static async Task<string> UploadAudioBlobAsync(IFormFile audio, string stringConexao, string nomeContainer)
+        public static async Task<string> UploadAudioBlobAsync(Audio audio, string stringConexao, string nomeContainer)
         {
             try
             {
-                if (audio != null)
+                //validar caso seja nulo
+                //var fileExtension = Path.GetExtension(audio.AudioFile!.FileName);
+
+
+
+                //verifica se o usuario inseriu um arquivo e é um audio
+                // && fileExtension == ".aiff" || fileExtension == ".au" || fileExtension == ".mid" || fileExtension == ".midi" || fileExtension == ".mp3" || fileExtension == ".m4a" || fileExtension == ".mp4" || fileExtension == ".wav" || fileExtension == ".wma" || fileExtension == ".ogg"
+                if (audio.AudioFile != null)
                 {
                     //Path.GetExtension(arquivo.FileName): pega o nome do arquivo e obtém a extensao dele. Ex: A754E556CFD4457D908D309849E44475.png
 
                     //gera um nome unico + extensao do arquivo
-                    var blobName = Guid.NewGuid().ToString().Replace("-", "") + Path.GetExtension(audio.FileName);
+                    //.split('.') --- divide o blob name em um array contendo duas strings (guid do arquivo e sua extensão)
+                    var blobName = Guid.NewGuid().ToString().Replace("-", "") + Path.GetExtension(audio.AudioFile!.FileName);
+
+
+
+
+                    ///lógica para pegar a extensao do arquivo e alterar para .wav *tentar usar regex depois*
+
+                    //separa o id do arquvio de sua extensao para trata-la
+                    string[] blobNameFormated = blobName.Split('.');
+
+
+                    if (blobNameFormated[1] != "wav")
+                    {
+                        blobNameFormated[1] = ".wav";
+                        blobName = string.Concat(blobNameFormated);
+                    }
 
 
                     //cria uma instancia do cliente blob service e passa a string de conexao
@@ -28,7 +52,7 @@ namespace WebAPI.Utils.BlobStorage
                     var blobClient = blobContainerClient.GetBlobClient(blobName);
 
                     //abre o fluxo de entrada do arquivo(foto)
-                    using (var stream = audio.OpenReadStream())
+                    using (var stream = audio.AudioFile.OpenReadStream())
                     {
 
                         //carrega o arquivo para o blob storage de forma assincrona
@@ -41,7 +65,7 @@ namespace WebAPI.Utils.BlobStorage
                 else
                 {
                     //retorna a uri de uma imagem padrao caso nenhum arquivo seja enviado
-                    return "https://blobvitalhubfilipegoisg2.blob.core.windows.net/containervitalhubfilipegoisg2/defaultImage.png";
+                    throw new Exception("Insira um arquivo de áudio.");
                 }
             }
             catch (Exception e)
