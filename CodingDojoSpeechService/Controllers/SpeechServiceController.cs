@@ -5,7 +5,10 @@ using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CognitiveServices.Speech;
+using Microsoft.CognitiveServices.Speech.Audio;
 using WebAPI.Utils.BlobStorage;
+
+using System.Threading.Tasks;
 
 namespace CodingDojoSpeechService.Controllers
 {
@@ -13,8 +16,7 @@ namespace CodingDojoSpeechService.Controllers
     [ApiController]
     public class SpeechServiceController : ControllerBase
     {
-        private readonly string speechKey = "c081aeaf28e649e888c7f9b7150a6515";
-        private readonly string speechRegion = "brazilsouth";
+
 
         private readonly ISpeechService _speechService;
 
@@ -33,34 +35,36 @@ namespace CodingDojoSpeechService.Controllers
         /// </summary>
         /// <param name="audio"></param>
         /// <returns></returns>
-        [HttpPost("AudioToText")]
-        public async Task<IActionResult> AudioToText([FromForm] Audio audio)
+
+
+
+
+        static string speechKey = "c081aeaf28e649e888c7f9b7150a6515";
+        static string speechRegion = "brazilsouth";
+
+        [HttpPost("text-to-audio")]
+        public async Task<IActionResult> TextToAudio([FromBody] string text)
         {
             try
             {
-                //define o nome do container do blob storage
-                var containerName = "containercodingdojoaudiog1";
-
-                var connectionString = "DefaultEndpointsProtocol=https;AccountName=audioscodingdojog1;AccountKey=JohUhAOEMe/PAXSPlRAwRLAp62Bt0CNjv2M5ZMp5ia4aa2v9kBVcpjTBsHsi9wnZ98MPZ0mvf7zG+AStEhWslQ==;EndpointSuffix=core.windows.net";
-
-
-
-                //armazena a uri do audio upado no blob storage
-                var uriAudioBlob = await AzureBlobStorageHelper.UploadAudioBlobAsync(audio, connectionString, containerName);
-
                 var speechConfig = SpeechConfig.FromSubscription(speechKey, speechRegion);
 
-                speechConfig.SpeechRecognitionLanguage = "pt-BR";
+                speechConfig.SpeechSynthesisVoiceName = "pt-BR-AntonioNeural";
 
-                var textoConvertido = await _speechService.AudioToText(speechConfig, uriAudioBlob);
+                using (var audioConfig = AudioConfig.FromWavFileOutput("output.wav"))
+                using (var speech = new SpeechSynthesizer(speechConfig, audioConfig))
+                {
+                    var result = await speech.SpeakTextAsync(text);
+                    return File(System.IO.File.ReadAllBytes("output.wav"), "audio/wav", "output.wav");
 
-                //se der erro, atribuir esse await a uma variavel e passa-la no return
-                return StatusCode(200, textoConvertido);
+                }
+
+
             }
             catch (Exception e)
             {
 
-                return BadRequest($"ERRO! {e.Message}");
+                return BadRequest(e.Message);
             }
         }
 

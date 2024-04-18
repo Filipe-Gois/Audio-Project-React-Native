@@ -1,10 +1,13 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { useFonts, Poppins_400Regular } from "@expo-google-fonts/poppins";
+import HomeScreen from "./src/Screens/HomeScreen/HomeScreen";
 
-export default function App() {
+import React from "react";
+import { Container, MainContent } from "./src/Components/Container/style";
+
+const App = () => {
   const Stack = createNativeStackNavigator();
-
   let [fontsLoaded, fontError] = useFonts({
     Poppins_400Regular,
   });
@@ -14,10 +17,10 @@ export default function App() {
   }
 
   return (
-    <NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen />
-      </Stack.Navigator>
-    </NavigationContainer>
+    // <Container>
+    <HomeScreen />
+    // </Container>
   );
-}
+};
+
+export default App;

@@ -6,6 +6,6 @@ namespace CodingDojoSpeechService.Interfaces
     {
         public Task<string> AudioToText(SpeechConfig speechConfig, string uriAudio);
 
-        public Task<IFormFile> TextToAudio(string text);
+        //public Task<IFormFile> TextToAudio(string text);
     }
 }

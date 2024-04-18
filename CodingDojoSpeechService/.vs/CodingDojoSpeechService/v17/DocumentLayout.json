@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\",
+  "WorkspaceRootPath": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\codingdojospeechservice\\utils\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|solutionrelative:utils\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\codingdojospeechservice\\controllers\\speechservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codingdojospeechservice\\controllers\\speechservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|solutionrelative:controllers\\speechservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\codingdojospeechservice\\interfaces\\ispeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codingdojospeechservice\\utils\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|solutionrelative:utils\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codingdojospeechservice\\interfaces\\ispeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|solutionrelative:interfaces\\ispeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\codingdojospeechservice\\utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|c:\\users\\46633783825\\desktop\\github\\audio-project-react-native\\codingdojospeechservice\\utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D7E77D-7C0A-4026-B058-5BB69E2985F9}|CodingDojoSpeechService.csproj|solutionrelative:utils\\blobstorage\\azureblobstoragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,56 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AzureBlobStorageHelper.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
               "RelativeDocumentMoniker": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
               "RelativeToolTip": "Utils\\BlobStorage\\AzureBlobStorageHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:06:00.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T15:06:00.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ISpeechService.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Interfaces\\ISpeechService.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Interfaces\\ISpeechService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ISpeechService.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Interfaces\\ISpeechService.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Interfaces\\ISpeechService.cs",
               "RelativeToolTip": "Interfaces\\ISpeechService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T13:57:19.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SpeechService.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\SpeechService.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\SpeechService.cs",
               "RelativeDocumentMoniker": "Utils\\SpeechService.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\SpeechService.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Utils\\SpeechService.cs",
               "RelativeToolTip": "Utils\\SpeechService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T12:47:04.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SpeechServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Controllers\\SpeechServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Controllers\\SpeechServiceController.cs",
               "RelativeDocumentMoniker": "Controllers\\SpeechServiceController.cs",
-              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\CodingDojoSpeechService\\Controllers\\SpeechServiceController.cs",
+              "ToolTip": "C:\\Users\\46633783825\\Desktop\\GitHub\\Audio-Project-React-Native\\CodingDojoSpeechService\\Controllers\\SpeechServiceController.cs",
               "RelativeToolTip": "Controllers\\SpeechServiceController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAADYAAAAPAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDkAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T19:49:10.576Z",
               "EditorCaption": ""

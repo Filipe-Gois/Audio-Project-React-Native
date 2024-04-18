@@ -34,9 +34,19 @@ namespace CodingDojoSpeechService.Utils
             }
         }
 
-        public Task<IFormFile> TextToAudio(string text)
-        {
-            throw new NotImplementedException();
-        }
+        //public Task<IFormFile> TextToAudio(string text)
+        //{
+
+
+        //    try
+        //    {
+
+        //    }
+        //    catch (Exception E)
+        //    {
+
+        //        return e.Message;
+        //    }
+        //}
     }
 }

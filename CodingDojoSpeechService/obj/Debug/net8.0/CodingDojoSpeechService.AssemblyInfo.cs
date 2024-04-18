@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodingDojoSpeechService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db4bb516eab31c637c3f0cef5193dff652dc8cb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a91fbd9664915eca5250a375284b77b2c65b8394")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodingDojoSpeechService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodingDojoSpeechService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
