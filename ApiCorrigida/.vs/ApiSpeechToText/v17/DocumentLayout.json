@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\apicorrigida\\apispeechtotext\\apispeechtotext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|solutionrelative:apispeechtotext\\apispeechtotext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\apicorrigida\\apispeechtotext\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|solutionrelative:apispeechtotext\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\apicorrigida\\apispeechtotext\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|solutionrelative:apispeechtotext\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\apicorrigida\\apispeechtotext\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|solutionrelative:apispeechtotext\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|c:\\users\\fytho\\documents\\github\\audio-project-react-native\\apicorrigida\\apispeechtotext\\services\\azureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0AE8DD-05B0-42E6-ABE1-3BD6D6B47680}|ApiSpeechToText\\ApiSpeechToText.csproj|solutionrelative:apispeechtotext\\services\\azureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiSpeechToText.csproj",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\ApiSpeechToText.csproj",
+              "RelativeDocumentMoniker": "ApiSpeechToText\\ApiSpeechToText.csproj",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\ApiSpeechToText.csproj",
+              "RelativeToolTip": "ApiSpeechToText\\ApiSpeechToText.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T16:26:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiSpeechToText\\appsettings.json",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\appsettings.json",
+              "RelativeToolTip": "ApiSpeechToText\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T16:26:04.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiSpeechToText\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiSpeechToText\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T16:23:40.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeechController.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\Controllers\\SpeechController.cs",
+              "RelativeDocumentMoniker": "ApiSpeechToText\\Controllers\\SpeechController.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\Controllers\\SpeechController.cs",
+              "RelativeToolTip": "ApiSpeechToText\\Controllers\\SpeechController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAABsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:21:18.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureService.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\services\\AzureService.cs",
+              "RelativeDocumentMoniker": "ApiSpeechToText\\services\\AzureService.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\services\\AzureService.cs",
+              "RelativeToolTip": "ApiSpeechToText\\services\\AzureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:20:29.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

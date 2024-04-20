@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\07004ab1-4e3a-4b04-9bdf-af47be7d0a53.m4a",
+      "PackagePath": "staticwebassets\\audios\\07004ab1-4e3a-4b04-9bdf-af47be7d0a53.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\07004ab1-4e3a-4b04-9bdf-af47be7d0a53.wav",
+      "PackagePath": "staticwebassets\\audios\\07004ab1-4e3a-4b04-9bdf-af47be7d0a53.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\08aaa593-58eb-4625-a5d9-60a6309b4da1.m4a",
+      "PackagePath": "staticwebassets\\audios\\08aaa593-58eb-4625-a5d9-60a6309b4da1.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\08aaa593-58eb-4625-a5d9-60a6309b4da1.wav",
+      "PackagePath": "staticwebassets\\audios\\08aaa593-58eb-4625-a5d9-60a6309b4da1.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\0c2edcb5-bfdf-4a27-95d7-6dda642be4bb.m4a",
+      "PackagePath": "staticwebassets\\audios\\0c2edcb5-bfdf-4a27-95d7-6dda642be4bb.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\0c2edcb5-bfdf-4a27-95d7-6dda642be4bb.wav",
+      "PackagePath": "staticwebassets\\audios\\0c2edcb5-bfdf-4a27-95d7-6dda642be4bb.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\0fe29e9f-d285-486c-9736-af5d0f569369.m4a",
+      "PackagePath": "staticwebassets\\audios\\0fe29e9f-d285-486c-9736-af5d0f569369.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\0fe29e9f-d285-486c-9736-af5d0f569369.wav",
+      "PackagePath": "staticwebassets\\audios\\0fe29e9f-d285-486c-9736-af5d0f569369.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\150a8ba7-3c11-48be-9ec9-0fcdb461c591.m4a",
+      "PackagePath": "staticwebassets\\audios\\150a8ba7-3c11-48be-9ec9-0fcdb461c591.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\150a8ba7-3c11-48be-9ec9-0fcdb461c591.wav",
+      "PackagePath": "staticwebassets\\audios\\150a8ba7-3c11-48be-9ec9-0fcdb461c591.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\1715b29f-a439-4aae-99c6-530bb20e26ab.mp3",
+      "PackagePath": "staticwebassets\\audios\\1715b29f-a439-4aae-99c6-530bb20e26ab.mp3"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\1715b29f-a439-4aae-99c6-530bb20e26ab.wav",
+      "PackagePath": "staticwebassets\\audios\\1715b29f-a439-4aae-99c6-530bb20e26ab.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\1afa1000-76f9-44c8-9682-485943fd6fa7.m4a",
+      "PackagePath": "staticwebassets\\audios\\1afa1000-76f9-44c8-9682-485943fd6fa7.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\1afa1000-76f9-44c8-9682-485943fd6fa7.wav",
+      "PackagePath": "staticwebassets\\audios\\1afa1000-76f9-44c8-9682-485943fd6fa7.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_075614.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_075614.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_075747.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_075747.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082225.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082225.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082501.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082501.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082657.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082657.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082733.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082733.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082751.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082751.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082818.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082818.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082906.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082906.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_082948.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_082948.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_083110.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_083110.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_083131.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_083131.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_083143.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_083143.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_083211.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_083211.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_083212.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_083212.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_083245.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_083245.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150034.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150034.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150213.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150213.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150344.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150344.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150554.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150554.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150721.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150721.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150742.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150742.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_150912.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_150912.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151018.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151018.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151048.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151048.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151120.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151120.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151150.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151150.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151314.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151314.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151327.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151327.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240416_151328.wav",
+      "PackagePath": "staticwebassets\\audios\\20240416_151328.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240417_100232.wav",
+      "PackagePath": "staticwebassets\\audios\\20240417_100232.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240417_101228.wav",
+      "PackagePath": "staticwebassets\\audios\\20240417_101228.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240417_161214.wav",
+      "PackagePath": "staticwebassets\\audios\\20240417_161214.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240420_132651.wav",
+      "PackagePath": "staticwebassets\\audios\\20240420_132651.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\20240420_133223.wav",
+      "PackagePath": "staticwebassets\\audios\\20240420_133223.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\25189297-7f9e-4a64-b5de-18607670e3db.wav",
+      "PackagePath": "staticwebassets\\audios\\25189297-7f9e-4a64-b5de-18607670e3db.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\2fdd8441-ef19-4ab3-b5c8-54abe6ff7a0a.wav",
+      "PackagePath": "staticwebassets\\audios\\2fdd8441-ef19-4ab3-b5c8-54abe6ff7a0a.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\324cdad2-d641-41eb-818b-910cf02ea838.ogg",
+      "PackagePath": "staticwebassets\\audios\\324cdad2-d641-41eb-818b-910cf02ea838.ogg"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\37cff346-9ca0-4b04-b5ee-5a3aecc98963.ogg",
+      "PackagePath": "staticwebassets\\audios\\37cff346-9ca0-4b04-b5ee-5a3aecc98963.ogg"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\4131191f-2196-4e02-89c1-c10f110c509e.m4a",
+      "PackagePath": "staticwebassets\\audios\\4131191f-2196-4e02-89c1-c10f110c509e.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\4131191f-2196-4e02-89c1-c10f110c509e.wav",
+      "PackagePath": "staticwebassets\\audios\\4131191f-2196-4e02-89c1-c10f110c509e.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\479c5f6c-167c-431f-96ad-e3789c89c9e1.m4a",
+      "PackagePath": "staticwebassets\\audios\\479c5f6c-167c-431f-96ad-e3789c89c9e1.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\479c5f6c-167c-431f-96ad-e3789c89c9e1.wav",
+      "PackagePath": "staticwebassets\\audios\\479c5f6c-167c-431f-96ad-e3789c89c9e1.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\4c612151-b711-4fd9-8665-75686a0eba3e.m4a",
+      "PackagePath": "staticwebassets\\audios\\4c612151-b711-4fd9-8665-75686a0eba3e.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\4c612151-b711-4fd9-8665-75686a0eba3e.wav",
+      "PackagePath": "staticwebassets\\audios\\4c612151-b711-4fd9-8665-75686a0eba3e.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5462e2c9-ba3e-4be9-81f7-92d46be784d3.m4a",
+      "PackagePath": "staticwebassets\\audios\\5462e2c9-ba3e-4be9-81f7-92d46be784d3.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5462e2c9-ba3e-4be9-81f7-92d46be784d3.wav",
+      "PackagePath": "staticwebassets\\audios\\5462e2c9-ba3e-4be9-81f7-92d46be784d3.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5ba03013-57bc-42c0-824a-0a5f0500f110.m4a",
+      "PackagePath": "staticwebassets\\audios\\5ba03013-57bc-42c0-824a-0a5f0500f110.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5ba03013-57bc-42c0-824a-0a5f0500f110.wav",
+      "PackagePath": "staticwebassets\\audios\\5ba03013-57bc-42c0-824a-0a5f0500f110.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5c00d788-21c7-421d-bbaa-e24247425ae8.m4a",
+      "PackagePath": "staticwebassets\\audios\\5c00d788-21c7-421d-bbaa-e24247425ae8.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5c00d788-21c7-421d-bbaa-e24247425ae8.wav",
+      "PackagePath": "staticwebassets\\audios\\5c00d788-21c7-421d-bbaa-e24247425ae8.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5d567936-0434-4b57-84e7-a7f5d0381ca7.m4a",
+      "PackagePath": "staticwebassets\\audios\\5d567936-0434-4b57-84e7-a7f5d0381ca7.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\5d567936-0434-4b57-84e7-a7f5d0381ca7.wav",
+      "PackagePath": "staticwebassets\\audios\\5d567936-0434-4b57-84e7-a7f5d0381ca7.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\783e8ff8-1456-46ef-9201-f4719e0c73fb.m4a",
+      "PackagePath": "staticwebassets\\audios\\783e8ff8-1456-46ef-9201-f4719e0c73fb.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\783e8ff8-1456-46ef-9201-f4719e0c73fb.wav",
+      "PackagePath": "staticwebassets\\audios\\783e8ff8-1456-46ef-9201-f4719e0c73fb.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\791be312-f229-4259-8592-6101dced6461.m4a",
+      "PackagePath": "staticwebassets\\audios\\791be312-f229-4259-8592-6101dced6461.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\791be312-f229-4259-8592-6101dced6461.wav",
+      "PackagePath": "staticwebassets\\audios\\791be312-f229-4259-8592-6101dced6461.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\7b7357d9-f9db-4185-ac7b-b519992f968b.m4a",
+      "PackagePath": "staticwebassets\\audios\\7b7357d9-f9db-4185-ac7b-b519992f968b.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\7b7357d9-f9db-4185-ac7b-b519992f968b.wav",
+      "PackagePath": "staticwebassets\\audios\\7b7357d9-f9db-4185-ac7b-b519992f968b.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\8802046b-e501-47bc-8566-dc0679f3083e.wav",
+      "PackagePath": "staticwebassets\\audios\\8802046b-e501-47bc-8566-dc0679f3083e.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\aca6b3ea-b75d-45f1-96ff-3a60b29933b1.m4a",
+      "PackagePath": "staticwebassets\\audios\\aca6b3ea-b75d-45f1-96ff-3a60b29933b1.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\aca6b3ea-b75d-45f1-96ff-3a60b29933b1.wav",
+      "PackagePath": "staticwebassets\\audios\\aca6b3ea-b75d-45f1-96ff-3a60b29933b1.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\acc6feea-1b9b-4df5-adfa-78272ccca179.m4a",
+      "PackagePath": "staticwebassets\\audios\\acc6feea-1b9b-4df5-adfa-78272ccca179.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\acc6feea-1b9b-4df5-adfa-78272ccca179.wav",
+      "PackagePath": "staticwebassets\\audios\\acc6feea-1b9b-4df5-adfa-78272ccca179.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\ae7dbca2-68bd-4ecb-acaf-d037aae256b7.m4a",
+      "PackagePath": "staticwebassets\\audios\\ae7dbca2-68bd-4ecb-acaf-d037aae256b7.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\ae7dbca2-68bd-4ecb-acaf-d037aae256b7.wav",
+      "PackagePath": "staticwebassets\\audios\\ae7dbca2-68bd-4ecb-acaf-d037aae256b7.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\b8112aa4-a16c-4d79-abd3-4144a0218067.m4a",
+      "PackagePath": "staticwebassets\\audios\\b8112aa4-a16c-4d79-abd3-4144a0218067.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\b8112aa4-a16c-4d79-abd3-4144a0218067.wav",
+      "PackagePath": "staticwebassets\\audios\\b8112aa4-a16c-4d79-abd3-4144a0218067.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\bccf9635-63b5-4932-bb75-65eec9f5078e.m4a",
+      "PackagePath": "staticwebassets\\audios\\bccf9635-63b5-4932-bb75-65eec9f5078e.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\bccf9635-63b5-4932-bb75-65eec9f5078e.wav",
+      "PackagePath": "staticwebassets\\audios\\bccf9635-63b5-4932-bb75-65eec9f5078e.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\c0ba80c3-be1b-48f1-ab2d-ca7f9ee0f72d.m4a",
+      "PackagePath": "staticwebassets\\audios\\c0ba80c3-be1b-48f1-ab2d-ca7f9ee0f72d.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\c0ba80c3-be1b-48f1-ab2d-ca7f9ee0f72d.wav",
+      "PackagePath": "staticwebassets\\audios\\c0ba80c3-be1b-48f1-ab2d-ca7f9ee0f72d.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\c19914a2-a0e9-404e-942b-a86ddf65d9d1.m4a",
+      "PackagePath": "staticwebassets\\audios\\c19914a2-a0e9-404e-942b-a86ddf65d9d1.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\c19914a2-a0e9-404e-942b-a86ddf65d9d1.wav",
+      "PackagePath": "staticwebassets\\audios\\c19914a2-a0e9-404e-942b-a86ddf65d9d1.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\c56735e4-e813-4576-a472-ffc197759a34.m4a",
+      "PackagePath": "staticwebassets\\audios\\c56735e4-e813-4576-a472-ffc197759a34.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\c56735e4-e813-4576-a472-ffc197759a34.wav",
+      "PackagePath": "staticwebassets\\audios\\c56735e4-e813-4576-a472-ffc197759a34.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\d1ca2a16-66f1-4649-a32e-7935bf647202.m4a",
+      "PackagePath": "staticwebassets\\audios\\d1ca2a16-66f1-4649-a32e-7935bf647202.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\d1ca2a16-66f1-4649-a32e-7935bf647202.wav",
+      "PackagePath": "staticwebassets\\audios\\d1ca2a16-66f1-4649-a32e-7935bf647202.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\d34176e6-bd9d-40d7-8179-00a72b57e52d.m4a",
+      "PackagePath": "staticwebassets\\audios\\d34176e6-bd9d-40d7-8179-00a72b57e52d.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\d34176e6-bd9d-40d7-8179-00a72b57e52d.wav",
+      "PackagePath": "staticwebassets\\audios\\d34176e6-bd9d-40d7-8179-00a72b57e52d.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\dd30dd09-be40-40f3-a878-6d1ef7b8bd82.m4a",
+      "PackagePath": "staticwebassets\\audios\\dd30dd09-be40-40f3-a878-6d1ef7b8bd82.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\dd30dd09-be40-40f3-a878-6d1ef7b8bd82.wav",
+      "PackagePath": "staticwebassets\\audios\\dd30dd09-be40-40f3-a878-6d1ef7b8bd82.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\e69c9ef5-46d9-4d25-9ae4-1d0df378726a.m4a",
+      "PackagePath": "staticwebassets\\audios\\e69c9ef5-46d9-4d25-9ae4-1d0df378726a.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\e69c9ef5-46d9-4d25-9ae4-1d0df378726a.wav",
+      "PackagePath": "staticwebassets\\audios\\e69c9ef5-46d9-4d25-9ae4-1d0df378726a.wav"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\ee906302-9466-4fd8-b1f0-6220dce9101e.m4a",
+      "PackagePath": "staticwebassets\\audios\\ee906302-9466-4fd8-b1f0-6220dce9101e.m4a"
+    },
+    {
+      "Id": "C:\\Users\\fytho\\Documents\\Github\\Audio-Project-React-Native\\ApiCorrigida\\ApiSpeechToText\\wwwroot\\audios\\ee906302-9466-4fd8-b1f0-6220dce9101e.wav",
+      "PackagePath": "staticwebassets\\audios\\ee906302-9466-4fd8-b1f0-6220dce9101e.wav"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiSpeechToText.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiSpeechToText.props",
+      "PackagePath": "build\\ApiSpeechToText.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiSpeechToText.props",
+      "PackagePath": "buildMultiTargeting\\ApiSpeechToText.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiSpeechToText.props",
+      "PackagePath": "buildTransitive\\ApiSpeechToText.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
